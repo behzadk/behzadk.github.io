@@ -2,17 +2,8 @@
 layout: default
 ---
 
-<table border="0">
- <tr>
-    <td>Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I use maths and computing to explain biological systems, and predict their behaviour.
-
-During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems</td>
-    <td><img src="/assets/images/WhatsApp Image 2022-07-19 at 8.41.32 PM.jpeg" width="75%" height="75%"><</td>
- </tr>
-</table>
-
 Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I use maths and computing to explain biological systems, and predict their behaviour.
-<img src="/assets/images/WhatsApp Image 2022-07-19 at 8.41.32 PM.jpeg" width="75%" height="75%">
+<img src="/assets/images/WhatsApp Image 2022-07-19 at 8.41.32 PM.jpeg" width="25%" height="25%">
 During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. 
 
 <a target="_blank" href="/assets/files/Behzad_Karkaria_CV_DS_nopic_v2.pdf">Check out my CV for an overview!</a>
@@ -37,7 +28,7 @@ Alex Fedorec designed a two-strain community by engineering a strain of E. coli 
 
 We found that Alex's design was the simplest solution to producing co-existence (iv). AutoCD showed us how we can add more parts to produce a more robust co-existence with higher tunability.
 <p align="center">
-  <img src="/assets/images/41467_2021_22240_Fig9_HTML.png.webp" class="center" width="75%" height="75%">
+  <img src="/assets/images/41467_2021_22240_Fig9_HTML.png.webp" class="center" width="60%" height="60%">
 </p>
 
 Find the paper here! <a target="_blank" rel="noopener noreferrer" href="https://www.nature.com/articles/s41467-021-22240-x#Sec2">Single strain control of microbial consortia</a>
