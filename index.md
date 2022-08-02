@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <p>Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I use maths and computing to explain biological systems, and predict their behaviour.
+
+During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems.</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <p><img src="/assets/images/WhatsApp Image 2022-07-19 at 8.41.32 PM.jpeg" class="center" width="75%" height="75%"></p>
+  </div>
+</div>
+
+
+
 Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I use maths and computing to explain biological systems, and predict their behaviour.
 
 During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. 
@@ -40,4 +53,4 @@ Here we demonstrated that chaotic behaviour can occur in small microbial communi
   <img src="/assets/images/F4.large.jpg" class="center" width="75%" height="75%">
 </p>
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.biorxiv.org/content/10.1101/2021.09.06.459097v1.abstract">Chaos in small microbial communities</a>
+Read more here! <a target="_blank" rel="noopener noreferrer" href="https://www.biorxiv.org/content/10.1101/2021.09.06.459097v1.abstract">Chaos in small microbial communities</a>
