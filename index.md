@@ -22,7 +22,7 @@ Using non-negative matrix factorisation (NMF) we were able to derive interaciton
 <!-- ![NMF shows cool stuff](/assets/images/41467_2020_20756_Fig3_HTML.png.webp) -->
 
 
-<img src="/assets/images/41467_2020_20756_Fig3_HTML.png.webp" width="25%" height="25%">
+<img src="/assets/images/41467_2020_20756_Fig3_HTML.png.webp" class="centerImage" width="50%" height="50%">
 
 Checkout the paper here: [Automated design of synthetic micobial communities](https://www.nature.com/articles/s41467-020-20756-2)
 
@@ -34,7 +34,7 @@ We found that Alex's design was the simplest solution to producing co-existence 
 
 
 
-<img src="/assets/images/41467_2021_22240_Fig9_HTML.png.webp" width="25%" height="25%">
+<img src="/assets/images/41467_2021_22240_Fig9_HTML.png.webp" class="centerImage" width="50%" height="50%">
 
 Find the paper here! [Single strain control of microbial consortia](https://www.nature.com/articles/s41467-021-22240-x#Sec2)
 
@@ -43,7 +43,7 @@ Here we demonstrated that chaotic behaviour can occur in small microbial communi
 
 <!-- ![NMF shows cool stuff](/assets/images/F4.large.jpg) -->
 
-<img src="/assets/images/F4.large.jpg" width="25%" height="25%">
+<img src="/assets/images/F4.large.jpg" class="centerImage" width="50%" height="50%">
 
 Paper here! [Chaos in small microbial communities](https://www.biorxiv.org/content/10.1101/2021.09.06.459097v1.abstract)
 
