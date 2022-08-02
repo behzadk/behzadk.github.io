@@ -6,7 +6,7 @@ Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I
 
 During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. 
 
-<a href="/assets/files/Behzad_Karkaria_CV_DS_nopic_v2.pdf">Check out my CV for an overview!</a>
+<a target="_blank" href="/assets/files/Behzad_Karkaria_CV_DS_nopic_v2.pdf">Check out my CV for an overview!</a>
 
 # Publication Highlights
 
@@ -35,5 +35,4 @@ Here we demonstrated that chaotic behaviour can occur in small microbial communi
 
 <img src="/assets/images/F4.large.jpg" class="center" width="50%" height="50%">
 
-Paper here! [Chaos in small microbial communities](https://www.biorxiv.org/content/10.1101/2021.09.06.459097v1.abstract)
 <a target="_blank" rel="noopener noreferrer" href="https://www.biorxiv.org/content/10.1101/2021.09.06.459097v1.abstract">Chaos in small microbial communities</a>
