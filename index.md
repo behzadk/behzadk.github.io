@@ -12,7 +12,7 @@ During my experiences in academia and industry, I have developed expertise in Ba
 </table>
 
 Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I use maths and computing to explain biological systems, and predict their behaviour.
-
+<img src="/assets/images/WhatsApp Image 2022-07-19 at 8.41.32 PM.jpeg" width="75%" height="75%">
 During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. 
 
 <a target="_blank" href="/assets/files/Behzad_Karkaria_CV_DS_nopic_v2.pdf">Check out my CV for an overview!</a>
