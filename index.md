@@ -6,13 +6,16 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I use maths and computing to explain biological systems, and predict their behaviour.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+During my experiences in academia and industry, I have develoepd expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. Check out my CV for an overview! -- LINK 
+
+
+Here are some publication Highlights
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ![My helpful screenshot](/assets/images/41467_2020_20756_Fig3_HTML.png.webp)
 
 ## Header 2
 
