@@ -6,7 +6,7 @@ Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I
 
 During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. 
 
-<a href="https://my.github.io/files/paper.pdf">Check out my CV for an overview!</a>
+<a href="/files/Behzad_Karkaria_CV_DS_nopic_v2.pdf">Check out my CV for an overview!</a>
 
 # Publication Highlights
 
