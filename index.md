@@ -19,13 +19,13 @@ During my experiences in academia and industry, I have developed expertise in Ba
 I developed AutoCD, software and methodology to design microbial communities with defined population dynamics! Checkout the paper here: [Automated design of synthetic micobial communities](https://www.nature.com/articles/s41467-020-20756-2)
 
 Using non-negative matrix factorisation (NMF) we were able to derive interaciton motifs, showing the types of microbial interactions that are necessary to produce stable multistrain communities
-![NMF shows cool stuff](behzadk/assets/41467_2020_20756_Fig3_HTML.png.webp width=50% height=50%)
+![NMF shows cool stuff](behzadk/assets/images/41467_2020_20756_Fig3_HTML.png.webp width=50% height=50%)
 
 ## Single strain control of microbial consortia
 Alex Fedorec designed a two-strain community by engineering a strain of E. coli to secrete a toxin in response to competition. We applied AutoCD to compare Alex's design with other possible engineering options. 
 
 We found that Alex's design was the simplest solution to producing co-existence (iv). AutoCD showed us how we can add more parts to produce a more robust co-existence with higher tunability.
-![NMF shows cool stuff](behzadk/assets/41467_2021_22240_Fig9_HTML.png.webp width=50% height=50%)
+![NMF shows cool stuff](behzadk/assets/images/41467_2021_22240_Fig9_HTML.png.webp width=50% height=50%)
 
 ### Header 3
 
