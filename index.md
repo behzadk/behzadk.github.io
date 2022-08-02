@@ -15,7 +15,7 @@ Here are some publication Highlights
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ![My helpful screenshot](/assets/images/41467_2020_20756_Fig3_HTML.png.webp)
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ![My helpful screenshot](/assets/images/41467_2020_20756_Fig3_HTML.png.webp width=50% height=50%)
 
 ## Header 2
 
