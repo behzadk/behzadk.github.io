@@ -1,6 +1,6 @@
 title: Behzad Karkaria
 description: 
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: UA-236266658-1
 theme: jekyll-theme-cayman
 exclude: [vendor]
