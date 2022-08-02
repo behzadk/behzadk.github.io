@@ -4,24 +4,28 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 Hi, I'm Behzad. I'm a research scientist, software developer and entrepreneur. I use maths and computing to explain biological systems, and predict their behaviour.
 
-During my experiences in academia and industry, I have develoepd expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. Check out my CV for an overview! -- LINK 
+During my experiences in academia and industry, I have developed expertise in Bayesian statistics and machine learning applied to microbial communities, computer vision, sentiment analysis and model optimization problems. Check out my CV for an overview! -- LINK 
 
 
-Here are some publication Highlights
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ![My helpful screenshot](/assets/images/41467_2020_20756_Fig3_HTML.png.webp width=50% height=50%)
+# Publication Highlights
 
-## Header 2
+## Automated design of synthetic micobial communities
+I developed AutoCD, software and methodology to design microbial communities with defined population dynamics! Checkout the paper here: [Automated design of synthetic micobial communities](https://www.nature.com/articles/s41467-020-20756-2)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Using non-negative matrix factorisation (NMF) we were able to derive interaciton motifs, showing the types of microbial interactions that are necessary to produce stable multistrain communities
+![NMF shows cool stuff](behzadk/assets/41467_2020_20756_Fig3_HTML.png.webp width=50% height=50%)
+
+## Single strain control of microbial consortia
+Alex Fedorec designed a two-strain community by engineering a strain of E. coli to secrete a toxin in response to competition. We applied AutoCD to compare Alex's design with other possible engineering options. 
+
+We found that Alex's design was the simplest solution to producing co-existence (iv). AutoCD showed us how we can add more parts to produce a more robust co-existence with higher tunability.
+![NMF shows cool stuff](behzadk/assets/41467_2021_22240_Fig9_HTML.png.webp width=50% height=50%)
 
 ### Header 3
 
