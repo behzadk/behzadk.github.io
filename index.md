@@ -30,9 +30,11 @@ We found that Alex's design was the simplest solution to producing co-existence 
 Find the paper here! [Single strain control of microbial consortia](https://www.nature.com/articles/s41467-021-22240-x#Sec2)
 
 ### Chaos in small microbial communities
+Here we demonstrated that chaotic behaviour can occur in small microbial communities. We use approximate Bayesian computation to find the interaction networks that are most likely to produce chaotic behaviour
+
 ![NMF shows cool stuff](behzadk/assets/images/F4.large.jpg)
 
-
+Paper here! [Chaos in small microbial communities](https://www.biorxiv.org/content/10.1101/2021.09.06.459097v1.abstract)
 
 ```js
 // Javascript code with syntax highlighting.
